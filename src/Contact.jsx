@@ -7,7 +7,7 @@ function Contact() {
     <Box
       id="Contact"
       bgImg="./images/b2.jpg"
-      bgAttachment="fixed"
+      bgAttachment={{ base: "none", md: "none", lg: "fixed"}}
       bgPos="center"
       bgSize="cover"
       w="100%"

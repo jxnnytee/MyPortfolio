@@ -14,7 +14,7 @@ function Experience() {
       id=""
       p={5}
       bgImg={"./images/s3.jpg"}
-      bgAttachment={"fixed"}
+      bgAttachment={{ base: "none", md: "none", lg: "fixed"}}
       bgPos={"center"}
       bgSize={"cover"}
       w="100%"

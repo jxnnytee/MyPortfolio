@@ -26,7 +26,7 @@ function Projects() {
       w="100%"
       minH="100vh"
       bgImg={"./images/s3.jpg"}
-      bgAttachment={"fixed"}
+      bgAttachment={{ base: "none", md: "none", lg: "fixed"}}
       bgPos={"center"}
       bgSize={"cover"}
     >

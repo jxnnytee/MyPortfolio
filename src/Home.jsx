@@ -6,7 +6,7 @@ function Home() {
     <Box
       id="Home"
       bgImg={"./images/b2.jpg"}
-      bgAttachment={"fixed"}
+      bgAttachment={{ base: "none", md: "none", lg: "fixed"}}
       bgRepeat={"no-repeat"}
       bgPos={"center"}
       bgSize={"cover"}
