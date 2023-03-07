@@ -1,0 +1,16 @@
+#root {
+  overflow: hidden;
+  font-family: "Instagram Sans Condensed", sans-serif;
+}
+
+.font {
+  font-family: "Nemesis Grant", sans-serif;
+}
+
+.navbar {
+  background: rgba(4, 3, 3, 0.2);
+  border-radius: 0px;
+  box-shadow: 0 40px 30px rgba(20, 20, 20, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}

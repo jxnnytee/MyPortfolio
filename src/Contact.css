@@ -1,0 +1,7 @@
+.cardi {
+    background: rgba(6, 178, 66, 0.1);
+    border-radius: 20px;
+    box-shadow: 0 4px 100px rgba(3, 168, 168, 0.1);
+    backdrop-filter: blur(8.4px);
+    -webkit-backdrop-filter: blur(8.4px);
+}
