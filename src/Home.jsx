@@ -22,7 +22,6 @@ function Home() {
                 fontFamily={"Nemesis Grant"}
                 textAlign={"center"}
                 color={"whitesmoke"}
-                textShadow={"1px 1px 50px red"}
                 fontSize={"4xl"}
               >
                 John Akinyemi
@@ -32,7 +31,7 @@ function Home() {
                 fontFamily={"Nemesis Grant"}
                 fontSize={"5xl"}
                 color={"red.400"}
-                textShadow={"1px 1px 50px red"}
+        
               >
                 Frontend Developer
               </Heading>

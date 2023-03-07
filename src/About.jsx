@@ -32,7 +32,7 @@ function About() {
           >
             <Heading
               fontFamily={"Nemesis Grant"}
-              textShadow={"1px 1px 50px red"}
+            
             >
               About Me
             </Heading>

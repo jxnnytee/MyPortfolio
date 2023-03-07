@@ -37,7 +37,7 @@ function Experience() {
               textAlign={"center"}
               p={2}
               fontFamily={"Nemesis Grant"}
-              textShadow={"1px 1px 50px red"}
+     
             >
               Where I've Worked
             </Heading>

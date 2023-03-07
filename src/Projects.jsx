@@ -47,7 +47,7 @@ function Projects() {
               mb={8}
               fontFamily={"Nemesis Grant"}
               textAlign={"center"}
-              textShadow={"1px 1px 50px red"}
+          
             >
               What I've Built
             </Heading>

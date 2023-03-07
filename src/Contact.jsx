@@ -28,7 +28,6 @@ function Contact() {
               fontFamily={"Nemesis Grant"}
               textAlign={"center"}
               pt={"50vh"}
-              textShadow={"1px 1px 50px red"}
             >
               Contact Me{" "}
               <Button
