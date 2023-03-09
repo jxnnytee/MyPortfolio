@@ -4,6 +4,7 @@ import { Fade } from "react-reveal";
 const netflixLink = "https://monumental-cascaron-397354.netlify.app/";
 const todoLink = "https://bespoke-cranachan-3b4287.netlify.app/";
 const calculatorLink = "https://astonishing-raindrop-48826d.netlify.app/";
+const gymappLink = "https://master--kaleidoscopic-fairy-a5453c.netlify.app/";
 
 function netflix() {
   window.open(netflixLink, "_blank");
@@ -16,6 +17,10 @@ function todo() {
 
 function calculator() {
   window.open(calculatorLink, "_blank");
+}
+
+function gymapp() {
+  window.open(gymappLink, "_blank");
 }
 
 function Projects() {
@@ -59,6 +64,18 @@ function Projects() {
                 w={"80vw"}
                 spacing={5}
               >
+                <Box
+                  bgImg={"./images/gymm.jpeg"}
+                  bgSize={"cover"}
+                  bgPos={"top"}
+                  height="30vh"
+                  _hover={{ opacity: 0.5 }}
+                  as={"button"}
+                  borderRadius="10"
+                  onClick={gymapp}
+                >
+          
+                </Box>
                 <Box
                   bgImg={"./images/netflix.jpeg"}
                   bgSize={"cover"}
