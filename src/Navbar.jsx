@@ -71,7 +71,7 @@ const NavLink = ({ children, onClose }) => (
       fontFamily={"Nemesis Grant"}
     >
       <a
-        href="https://drive.google.com/file/d/1VnY0tfoEeCZ4Y6hVT4L5nZnW3tmo-XRV/view?usp=sharing"
+        href="https://drive.google.com/file/d/1yP7HRFezMAZGOtjDX5jd-RYviXHLZ0nk/view?usp=sharing"
         target="_blank"
       >
         Resume
