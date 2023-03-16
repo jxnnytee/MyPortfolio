@@ -58,7 +58,7 @@ function Experience() {
               w={"80vw"}
               color={"whitesmoke"}
             >
-              January 2022 - January 2023
+              January 2021 - January 2023
             </Text>
             <Box
               w={"100%"}
